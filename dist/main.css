@@ -64,5 +64,5 @@ body {
 
 .watcher-content__comic img {
     max-width: 100%;
-    border: 10px solid #4a4a4a;
+    /* border: 10px solid #4a4a4a; */
 }
